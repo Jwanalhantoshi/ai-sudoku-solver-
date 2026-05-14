@@ -66,11 +66,15 @@ The heuristic technique helps the system choose the best cell first by selecting
 - Support more Sudoku puzzle types
 
 ---
+# Workflow
+
+[View Workflow Diagram](Workflow.pdf)
+---
 
 # Team Members
 - Jwan Bjad
 - Danah Abdullah
-- Htoon Alanary
+- Htoon alangary
 - Salma Atipa
 
 ---
